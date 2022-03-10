@@ -10,6 +10,15 @@ Major aspects of this app is nothing much, this app is just letting the user sav
 ## Available Scripts
 
 In the project directory, you can run:
+```json
+"scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "dev" : "concurrently \"npm run start\" \"cd ./server && npm run start \""
+  }
+```
 
 ### `npm start`
 
