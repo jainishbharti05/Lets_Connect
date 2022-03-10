@@ -40,7 +40,7 @@ This script will open a tab in your browser at http://localhost:3000 and simulta
 
 ### Data in JSON file will look like this 
 
-`{<br/>
+{<br/>
     "data": [<br/>
         {<br/>
             "name": "Jainish Bharti",<br/>
@@ -57,7 +57,7 @@ This script will open a tab in your browser at http://localhost:3000 and simulta
             "_id": "6229c63a16221667c9a5ae3d"<br/>
         }<br/>
     ]<br/>
-}`
+}
 
 Every time you save something to local storage, it will reflect here immediately.
 
