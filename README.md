@@ -40,24 +40,25 @@ This script will open a tab in your browser at http://localhost:3000 and simulta
 
 ### Data in JSON file will look like this 
 
-{<br/>
-    "data": [<br/>
-        {<br/>
-            "name": "Jainish Bharti",<br/>
-            "email": "jainishbharti@gmail.com",<br/>
-            "phone": 9102512425,<br/>
-            "address": "Sant Kabir Nagar, Purnea- 854303(Bihar), India",<br/>
-            "account_details": {<br/>
-                "holder_name": "Jainish Bharti",<br/>
-                "bank_type": "SBI",<br/>
-                "account_number": 35542256582,<br/>
-                "IFSC": "SBIN052828",<br/>
-                "account_type": "savings"<br/>
-            },<br/>
-            "_id": "6229c63a16221667c9a5ae3d"<br/>
-        }<br/>
-    ]<br/>
+```json
+{"data": [
+						{
+							"name": "Jainish Bharti",
+							"email": "jainishbharti@gmail.com",
+							"phone": 9102512425,
+							"address": "Sant Kabir Nagar, Purnea- 854303(Bihar), India",
+							"account_details": {
+							"holder_name": "Jainish Bharti",
+							"bank_type": "SBI",
+							"account_number": 35542256582,
+							"IFSC": "SBIN052828",
+							"account_type": "savings"
+							},
+							"_id": "6229c63a16221667c9a5ae3d"
+						}
+					]
 }
+```
 
 Every time you save something to local storage, it will reflect here immediately.
 
