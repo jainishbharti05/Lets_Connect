@@ -35,3 +35,30 @@ Let them install the packages properly on the both front-end and back-end side. 
 ### `npm run dev`
 
 Run two scripts at a time, launch the client and server both at a time.
+This script will open a tab in your browser at http://localhost:3000 and simultaneously it will open a web server at http://localhost:3001 which eill respond to requests coming from the client side.
+
+
+### Data in JSON file will look like this 
+
+`{
+    "data": [
+        {
+            "name": "Jainish Bharti",
+            "email": "jainishbharti@gmail.com",
+            "phone": 9102512425,
+            "address": "Sant Kabir Nagar, Purnea- 854303(Bihar), India",
+            "account_details": {
+                "holder_name": "Jainish Bharti",
+                "bank_type": "SBI",
+                "account_number": 35542256582,
+                "IFSC": "SBIN052828",
+                "account_type": "savings"
+            },
+            "_id": "6229c63a16221667c9a5ae3d"
+        }
+    ]
+}`
+
+Every time you save something to local storage, it will reflect here immediately.
+
+###Thank You
