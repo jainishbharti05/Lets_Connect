@@ -2,6 +2,11 @@
 
 Major aspects of this app is nothing much, this app is just letting the user save their data to their choice, either in database or in the local file called db.json present in "./server/db.json" in proper JSON raw form. You can parse it either, its no big deal.
 
+### Snapshot of first page 
+
+![image](https://user-images.githubusercontent.com/66702922/157653980-edda455e-fe5d-43c8-8e7b-ec299b459bbf.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
