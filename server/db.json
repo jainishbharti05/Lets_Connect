@@ -1,0 +1,74 @@
+{
+    "data": [
+        {
+            "name": "Manas Mehta",
+            "email": "jaiishbharti@gmail.com",
+            "phone": 91022431039,
+            "address": "Sant Kabir Nagar, Purnea- 854301(Bihar), India",
+            "account_details": {
+                "holder_name": "Jainish Bharti",
+                "bank_type": "SBI",
+                "account_number": 35582856582,
+                "IFSC": "SBIN0002918",
+                "account_type": "savings"
+            },
+            "_id": "62286e292a8408aabf636922"
+        },
+        {
+            "name": "Minakshi Mehta",
+            "email": "jaiishbharti@gmail.com",
+            "phone": 91022431039,
+            "address": "Sant Kabir Nagar, Purnea- 854301(Bihar), India",
+            "account_details": {
+                "holder_name": "Jainish Bharti",
+                "bank_type": "SBI",
+                "account_number": 35582856582,
+                "IFSC": "SBIN0002918",
+                "account_type": "savings"
+            },
+            "_id": "62286f185eb3773d54c5dec8"
+        },
+        {
+            "name": "Pooja Mehta",
+            "email": "jaiishbharti@gmail.com",
+            "phone": 91022431039,
+            "address": "Sant Kabir Nagar, Purnea- 854301(Bihar), India",
+            "account_details": {
+                "holder_name": "Jainish Bharti",
+                "bank_type": "SBI",
+                "account_number": 35582856582,
+                "IFSC": "SBIN0002918",
+                "account_type": "savings"
+            },
+            "_id": "6229c49bf6d2222b259f5d93"
+        },
+        {
+            "name": "Priety Mehta",
+            "email": "jaiishbharti@gmail.com",
+            "phone": 91022431039,
+            "address": "Sant Kabir Nagar, Purnea- 854301(Bihar), India",
+            "account_details": {
+                "holder_name": "Jainish Bharti",
+                "bank_type": "SBI",
+                "account_number": 35582856582,
+                "IFSC": "SBIN0002918",
+                "account_type": "savings"
+            },
+            "_id": "6229c63a16221667c9a5ae3d"
+        },
+        {
+            "name": "Savita Mehta",
+            "email": "jaiishbharti@gmail.com",
+            "phone": 91022431039,
+            "address": "Sant Kabir Nagar, Purnea- 854301(Bihar), India",
+            "account_details": {
+                "holder_name": "Jainish Bharti",
+                "bank_type": "SBI",
+                "account_number": 35582856582,
+                "IFSC": "SBIN0002918",
+                "account_type": "savings"
+            },
+            "_id": "6229c653e713acb6b8f076ae"
+        }
+    ]
+}
